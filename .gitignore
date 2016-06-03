@@ -1,3 +1,24 @@
+#Project#
+*.project
+*.cproject
+build
+/build*/*
+/build/*
+/build-release/*
+/build-debug/*
+/results/*
+!/build-release/resultsPaper
+*~
+*.orig
+!/build/output_files
+!/build/output_files/*
+*.swp
+*.swo
+Session.vim
+.eclimrc
+/C\:*
+
+# JAVA
 *.class
 
 # Mobile Tools for Java (J2ME)
