@@ -1,0 +1,428 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/fea5967/
+$SWITCH_TABLE$monogenicwavelettoolbox$PropertiesEnum	RieszTupel.java	/^    private static \/* synthetic *\/ int[] $SWITCH_TABLE$monogenicwavelettoolbox$PropertiesEnum;$/;"	f	class:RieszTupel	file:
+$SWITCH_TABLE$monogenicwavelettoolbox$PropertiesEnum	RieszTupel.java	/^    static \/* synthetic *\/ int[] $SWITCH_TABLE$monogenicwavelettoolbox$PropertiesEnum() {$/;"	m	class:RieszTupel
+$SWITCH_TABLE$monogenicwavelettoolbox$ReconstructionEnum	MonogenicDecompositionTree.java	/^    private static \/* synthetic *\/ int[] $SWITCH_TABLE$monogenicwavelettoolbox$ReconstructionE/;"	f	class:MonogenicDecompositionTree	file:
+$SWITCH_TABLE$monogenicwavelettoolbox$ReconstructionEnum	MonogenicDecompositionTree.java	/^    static \/* synthetic *\/ int[] $SWITCH_TABLE$monogenicwavelettoolbox$ReconstructionEnum() {$/;"	m	class:MonogenicDecompositionTree
+AMPLITUDE	PropertiesEnum.java	/^    AMPLITUDE("Amplitude"),$/;"	e	enum:PropertiesEnum	file:
+AMP_ONLY	ReconstructionEnum.java	/^    AMP_ONLY("Amplitude only"),$/;"	e	enum:ReconstructionEnum	file:
+AMP_PHASE	ReconstructionEnum.java	/^    AMP_PHASE("Amp and Phase"),$/;"	e	enum:ReconstructionEnum	file:
+ATTENUATION	PropertiesEnum.java	/^    ATTENUATION("Attenutation"),$/;"	e	enum:PropertiesEnum	file:
+About_	About_.java	/^public class About_$/;"	c
+CONTRAST_ENHANCE	FeatureEnum.java	/^    CONTRAST_ENHANCE("constrast enhance");$/;"	e	enum:FeatureEnum	file:
+CONTRAST_ENHANCE	ReconstructionEnum.java	/^    CONTRAST_ENHANCE("Contrast Enhance");$/;"	e	enum:ReconstructionEnum	file:
+COS_PHASE	PropertiesEnum.java	/^    COS_PHASE("Cosine of Phase"),$/;"	e	enum:PropertiesEnum	file:
+ColorSpaceConverter	ColorSpaceConverterPlugin.java	/^        public ColorSpaceConverter(ColorSpaceConverterPlugin colorSpaceConverterPlugin) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+ColorSpaceConverter	ColorSpaceConverterPlugin.java	/^        public ColorSpaceConverter(ColorSpaceConverterPlugin colorSpaceConverterPlugin, String w/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+ColorSpaceConverter	ColorSpaceConverterPlugin.java	/^    public class ColorSpaceConverter {$/;"	c	class:ColorSpaceConverterPlugin
+ColorSpaceConverterPlugin	ColorSpaceConverterPlugin.java	/^public class ColorSpaceConverterPlugin$/;"	c
+ContrastEnhance_	ContrastEnhance_.java	/^public class ContrastEnhance_$/;"	c
+D50	ColorSpaceConverterPlugin.java	/^        public double[] D50;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+D55	ColorSpaceConverterPlugin.java	/^        public double[] D55;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+D65	ColorSpaceConverterPlugin.java	/^        public double[] D65;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+D75	ColorSpaceConverterPlugin.java	/^        public double[] D75;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+DENOISE	ReconstructionEnum.java	/^    DENOISE("Denoising"),$/;"	e	enum:ReconstructionEnum	file:
+DERIVATIVE_X	FourierFilters.java	/^    private static final int DERIVATIVE_X = 1;$/;"	f	class:FourierFilters	file:
+DERIVATIVE_Y	FourierFilters.java	/^    private static final int DERIVATIVE_Y = 2;$/;"	f	class:FourierFilters	file:
+DERIVATIVE_Z	FourierFilters.java	/^    private static final int DERIVATIVE_Z = 3;$/;"	f	class:FourierFilters	file:
+DESCREENING	ReconstructionEnum.java	/^    DESCREENING("Descreening"),$/;"	e	enum:ReconstructionEnum	file:
+Descreening_	Descreening_.java	/^public class Descreening_$/;"	c
+EqualizeBrightnessStabilized_	EqualizeBrightnessStabilized_.java	/^public class EqualizeBrightnessStabilized_$/;"	c
+EqualizeBrightness_	EqualizeBrightness_.java	/^public class EqualizeBrightness_$/;"	c
+FREQUENCY	PropertiesEnum.java	/^    FREQUENCY("Frequency");$/;"	e	enum:PropertiesEnum	file:
+FeatureEnum	FeatureEnum.java	/^    private FeatureEnum(String name, int n2, String string2) {$/;"	m	class:FeatureEnum	file:
+FeatureEnum	FeatureEnum.java	/^public enum FeatureEnum {$/;"	g
+FloatArray2D	FloatArray2D.java	/^    public FloatArray2D(FloatArray2D f) {$/;"	m	class:FloatArray2D
+FloatArray2D	FloatArray2D.java	/^    public FloatArray2D(ImagePlus imp) {$/;"	m	class:FloatArray2D
+FloatArray2D	FloatArray2D.java	/^    public FloatArray2D(double[][] realArray) {$/;"	m	class:FloatArray2D
+FloatArray2D	FloatArray2D.java	/^    public FloatArray2D(float[][] realArray) {$/;"	m	class:FloatArray2D
+FloatArray2D	FloatArray2D.java	/^    public FloatArray2D(int height, int width) {$/;"	m	class:FloatArray2D
+FloatArray2D	FloatArray2D.java	/^public class FloatArray2D$/;"	c
+FloatArray3D	FloatArray3D.java	/^    public FloatArray3D(FloatArray3D f2) {$/;"	m	class:FloatArray3D
+FloatArray3D	FloatArray3D.java	/^    public FloatArray3D(ImagePlus imp) {$/;"	m	class:FloatArray3D
+FloatArray3D	FloatArray3D.java	/^    public FloatArray3D(double[][][] realArray) {$/;"	m	class:FloatArray3D
+FloatArray3D	FloatArray3D.java	/^    public FloatArray3D(float[][][] realArray) {$/;"	m	class:FloatArray3D
+FloatArray3D	FloatArray3D.java	/^    public FloatArray3D(int depth, int height, int width) {$/;"	m	class:FloatArray3D
+FloatArray3D	FloatArray3D.java	/^public class FloatArray3D$/;"	c
+FloatArrayGeneric	FloatArrayGeneric.java	/^public abstract class FloatArrayGeneric {$/;"	c
+FourierFilters	FourierFilters.java	/^public class FourierFilters {$/;"	c
+HSBtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] HSBtoRGB(double H, double S, double B) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+HSBtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] HSBtoRGB(double[] HSB) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+ImageAdjuster	ImageAdjuster.java	/^public class ImageAdjuster {$/;"	c
+LABtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] LABtoRGB(double L, double a, double b) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+LABtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] LABtoRGB(double[] Lab) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+LABtoRGB	ImageAdjuster.java	/^    public static ColorProcessor LABtoRGB(ImageProcessor[] ips) {$/;"	m	class:ImageAdjuster
+LABtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] LABtoXYZ(double L, double a, double b) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+LABtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] LABtoXYZ(double[] Lab) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+LOSSLESS	ReconstructionEnum.java	/^    LOSSLESS("Lossless"),$/;"	e	enum:ReconstructionEnum	file:
+M	ColorSpaceConverterPlugin.java	/^        public double[][] M;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+Mi	ColorSpaceConverterPlugin.java	/^        public double[][] Mi;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+MonogenicDecompositionTree	MonogenicDecompositionTree.java	/^    public MonogenicDecompositionTree(ImagePlus imp, int numberOfOctaves, int numberOfChannels, /;"	m	class:MonogenicDecompositionTree
+MonogenicDecompositionTree	MonogenicDecompositionTree.java	/^public abstract class MonogenicDecompositionTree {$/;"	c
+MonogenicDecompositionTree2D	MonogenicDecompositionTree2D.java	/^    public MonogenicDecompositionTree2D(ImagePlus oimp, int numberOfOctaves, int numberOfChannel/;"	m	class:MonogenicDecompositionTree2D
+MonogenicDecompositionTree2D	MonogenicDecompositionTree2D.java	/^public class MonogenicDecompositionTree2D$/;"	c
+MonogenicDecompositionTree3D	MonogenicDecompositionTree3D.java	/^    public MonogenicDecompositionTree3D(ImagePlus oimp, int numberOfOctaves, int numberOfChannel/;"	m	class:MonogenicDecompositionTree3D
+MonogenicDecompositionTree3D	MonogenicDecompositionTree3D.java	/^public class MonogenicDecompositionTree3D$/;"	c
+MonogenicWaveletToolbox_	MonogenicWaveletToolbox_.java	/^    public MonogenicWaveletToolbox_() {$/;"	m	class:MonogenicWaveletToolbox_
+MonogenicWaveletToolbox_	MonogenicWaveletToolbox_.java	/^    public MonogenicWaveletToolbox_(boolean buildGui) {$/;"	m	class:MonogenicWaveletToolbox_
+MonogenicWaveletToolbox_	MonogenicWaveletToolbox_.java	/^public class MonogenicWaveletToolbox_$/;"	c
+NO_DERIVATIVE	FourierFilters.java	/^    private static final int NO_DERIVATIVE = 0;$/;"	f	class:FourierFilters	file:
+ORIENTATION	PropertiesEnum.java	/^    ORIENTATION("Orientation"),$/;"	e	enum:PropertiesEnum	file:
+ORIGINAL	PropertiesEnum.java	/^    ORIGINAL("Real part"),$/;"	e	enum:PropertiesEnum	file:
+PHASE	PropertiesEnum.java	/^    PHASE("Phase"),$/;"	e	enum:PropertiesEnum	file:
+PHASE_ONLY	ReconstructionEnum.java	/^    PHASE_ONLY("Cosine of Phase only"),$/;"	e	enum:ReconstructionEnum	file:
+PHASE_ONLY_STAB	ReconstructionEnum.java	/^    PHASE_ONLY_STAB("Cosine of Phase only (noise suppressed)"),$/;"	e	enum:ReconstructionEnum	file:
+PointComparable	PointComparable.java	/^    public PointComparable(int x, int y) {$/;"	m	class:PointComparable
+PointComparable	PointComparable.java	/^public class PointComparable$/;"	c
+PropertiesEnum	PropertiesEnum.java	/^    private PropertiesEnum(String name, int n2, String string2) {$/;"	m	class:PropertiesEnum	file:
+PropertiesEnum	PropertiesEnum.java	/^public enum PropertiesEnum {$/;"	g
+PropertyDoesNotExistException	PropertyDoesNotExistException.java	/^    public PropertyDoesNotExistException() {$/;"	m	class:PropertyDoesNotExistException
+PropertyDoesNotExistException	PropertyDoesNotExistException.java	/^    public PropertyDoesNotExistException(String message) {$/;"	m	class:PropertyDoesNotExistException
+PropertyDoesNotExistException	PropertyDoesNotExistException.java	/^public class PropertyDoesNotExistException$/;"	c
+R1	PropertiesEnum.java	/^    R1("Imag. part 1"),$/;"	e	enum:PropertiesEnum	file:
+R2	PropertiesEnum.java	/^    R2("Imag. part 2"),$/;"	e	enum:PropertiesEnum	file:
+R3	PropertiesEnum.java	/^    R3("Imag. part 3"),$/;"	e	enum:PropertiesEnum	file:
+RGBtoHSB	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoHSB(int R, int G, int B) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+RGBtoHSB	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoHSB(int[] RGB) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+RGBtoLAB	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoLAB(int R, int G, int B) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+RGBtoLAB	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoLAB(int[] RGB) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+RGBtoLAB	ImageAdjuster.java	/^    public static FloatProcessor[] RGBtoLAB(ColorProcessor ip) {$/;"	m	class:ImageAdjuster
+RGBtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoXYZ(int R, int G, int B) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+RGBtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] RGBtoXYZ(int[] RGB) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+ReconstructionEnum	ReconstructionEnum.java	/^    private ReconstructionEnum(String name, int n2, String string2) {$/;"	m	class:ReconstructionEnum	file:
+ReconstructionEnum	ReconstructionEnum.java	/^public enum ReconstructionEnum {$/;"	g
+RieszTupel	RieszTupel.java	/^    public RieszTupel(FloatArrayGeneric f) {$/;"	m	class:RieszTupel
+RieszTupel	RieszTupel.java	/^    public RieszTupel(FloatArrayGeneric f, Vector<FloatArrayGeneric> rieszVector) {$/;"	m	class:RieszTupel
+RieszTupel	RieszTupel.java	/^public abstract class RieszTupel {$/;"	c
+RieszTupel2D	RieszTupel2D.java	/^    public RieszTupel2D(FloatArray2D f) {$/;"	m	class:RieszTupel2D
+RieszTupel2D	RieszTupel2D.java	/^    public RieszTupel2D(FloatArray2D f, Vector<FloatArrayGeneric> r) {$/;"	m	class:RieszTupel2D
+RieszTupel2D	RieszTupel2D.java	/^public class RieszTupel2D$/;"	c
+RieszTupel3D	RieszTupel3D.java	/^    public RieszTupel3D(FloatArrayGeneric f) {$/;"	m	class:RieszTupel3D
+RieszTupel3D	RieszTupel3D.java	/^    public RieszTupel3D(FloatArrayGeneric f, Vector<FloatArrayGeneric> riesz) {$/;"	m	class:RieszTupel3D
+RieszTupel3D	RieszTupel3D.java	/^public class RieszTupel3D$/;"	c
+STABILIZED	FeatureEnum.java	/^    STABILIZED("stabilized"),$/;"	e	enum:FeatureEnum	file:
+WAVE_REMOVAL	ReconstructionEnum.java	/^    WAVE_REMOVAL("Wave Removal"),$/;"	e	enum:ReconstructionEnum	file:
+WAVE_REMOVAL_ADAPTIVE	ReconstructionEnum.java	/^    WAVE_REMOVAL_ADAPTIVE("Wave Removal Adaptive"),$/;"	e	enum:ReconstructionEnum	file:
+XYZtoLAB	ColorSpaceConverterPlugin.java	/^        public double[] XYZtoLAB(double X, double Y, double Z) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+XYZtoLAB	ColorSpaceConverterPlugin.java	/^        public double[] XYZtoLAB(double[] XYZ) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+XYZtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] XYZtoRGB(double X, double Y, double Z) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+XYZtoRGB	ColorSpaceConverterPlugin.java	/^        public int[] XYZtoRGB(double[] XYZ) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+XYZtoxyY	ColorSpaceConverterPlugin.java	/^        public double[] XYZtoxyY(double X, double Y, double Z) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+XYZtoxyY	ColorSpaceConverterPlugin.java	/^        public double[] XYZtoxyY(double[] XYZ) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+abs	FloatArrayGeneric.java	/^    public FloatArrayGeneric abs() {$/;"	m	class:FloatArrayGeneric
+acquireImage	MonogenicWaveletToolbox_.java	/^    protected void acquireImage() {$/;"	m	class:MonogenicWaveletToolbox_
+add	FloatArrayGeneric.java	/^    public FloatArrayGeneric add(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+add	FloatArrayGeneric.java	/^    public FloatArrayGeneric add(double f2) {$/;"	m	class:FloatArrayGeneric
+atan	FloatArrayGeneric.java	/^    public FloatArrayGeneric atan() {$/;"	m	class:FloatArrayGeneric
+atan2	FloatArrayGeneric.java	/^    public FloatArrayGeneric atan2(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+buildGUI	MonogenicWaveletToolbox_.java	/^    private void buildGUI() {$/;"	m	class:MonogenicWaveletToolbox_	file:
+checkDimension	ImageAdjuster.java	/^    public static boolean checkDimension(ImagePlus imp) {$/;"	m	class:ImageAdjuster
+checkSize	FloatArrayGeneric.java	/^    protected void checkSize(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+chromaD50	ColorSpaceConverterPlugin.java	/^        public double[] chromaD50;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+chromaD55	ColorSpaceConverterPlugin.java	/^        public double[] chromaD55;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+chromaD65	ColorSpaceConverterPlugin.java	/^        public double[] chromaD65;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+chromaD75	ColorSpaceConverterPlugin.java	/^        public double[] chromaD75;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+chromaWhitePoint	ColorSpaceConverterPlugin.java	/^        public double[] chromaWhitePoint;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+compareTo	PointComparable.java	/^    public int compareTo(PointComparable o) {$/;"	m	class:PointComparable
+computeDecompositionTree	MonogenicDecompositionTree.java	/^    protected void computeDecompositionTree() {$/;"	m	class:MonogenicDecompositionTree
+computeDerivatives	MonogenicDecompositionTree.java	/^    public void computeDerivatives() {$/;"	m	class:MonogenicDecompositionTree
+computeRieszTransforms	RieszTupel.java	/^    void computeRieszTransforms() {$/;"	m	class:RieszTupel
+copy	FloatArrayGeneric.java	/^    public double[] copy() {$/;"	m	class:FloatArrayGeneric
+cos	FloatArrayGeneric.java	/^    public FloatArrayGeneric cos() {$/;"	m	class:FloatArrayGeneric
+createRieszTupel	RieszTupel.java	/^    public static RieszTupel createRieszTupel(FloatArrayGeneric floatArr) {$/;"	m	class:RieszTupel
+csc	ColorSpaceConverterPlugin.java	/^    ColorSpaceConverter csc;$/;"	f	class:ColorSpaceConverterPlugin
+divide	FloatArrayGeneric.java	/^    public FloatArrayGeneric divide(double f2) {$/;"	m	class:FloatArrayGeneric
+divideReal	FloatArrayGeneric.java	/^    public FloatArrayGeneric divideReal(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+downsampling	FloatArray2D.java	/^    public FloatArrayGeneric downsampling(int n) {$/;"	m	class:FloatArray2D
+downsampling	FloatArray3D.java	/^    public FloatArrayGeneric downsampling(int n) {$/;"	m	class:FloatArray3D
+downsampling	FloatArrayGeneric.java	/^    public abstract FloatArrayGeneric downsampling(int var1);$/;"	m	class:FloatArrayGeneric
+downsampling	FloatArrayGeneric.java	/^    public void downsampling() {$/;"	m	class:FloatArrayGeneric
+downsamplingAverage	FloatArray2D.java	/^    public void downsamplingAverage() {$/;"	m	class:FloatArray2D
+downsamplingAverage	FloatArray3D.java	/^    public void downsamplingAverage() {$/;"	m	class:FloatArray3D
+downsamplingAverage	FloatArrayGeneric.java	/^    public abstract void downsamplingAverage();$/;"	m	class:FloatArrayGeneric
+duplicate	FloatArrayGeneric.java	/^    public FloatArrayGeneric duplicate() {$/;"	m	class:FloatArrayGeneric
+exp	FloatArrayGeneric.java	/^    public FloatArrayGeneric exp() {$/;"	m	class:FloatArrayGeneric
+expand	FloatArray2D.java	/^    public void expand() {$/;"	m	class:FloatArray2D
+expand	FloatArray3D.java	/^    public void expand() {$/;"	m	class:FloatArray3D
+expand	FloatArrayGeneric.java	/^    public abstract void expand();$/;"	m	class:FloatArrayGeneric
+extendSize	ImageAdjuster.java	/^    public static ImageProcessor extendSize(ImageProcessor ip) {$/;"	m	class:ImageAdjuster
+extendSize	ImageAdjuster.java	/^    public static void extendSize(ImagePlus imp) {$/;"	m	class:ImageAdjuster
+extendSizeToPowerOf2	FloatArray2D.java	/^    public void extendSizeToPowerOf2() {$/;"	m	class:FloatArray2D
+extendSizeToPowerOf2	FloatArray3D.java	/^    public void extendSizeToPowerOf2() {$/;"	m	class:FloatArray3D
+extendSizeToPowerOf2	FloatArrayGeneric.java	/^    public abstract void extendSizeToPowerOf2();$/;"	m	class:FloatArrayGeneric
+fft	FloatArray2D.java	/^    public void fft() {$/;"	m	class:FloatArray2D
+fft	FloatArray3D.java	/^    public void fft() {$/;"	m	class:FloatArray3D
+fft	FloatArrayGeneric.java	/^    public abstract void fft();$/;"	m	class:FloatArrayGeneric
+from	ColorSpaceConverterPlugin.java	/^    String from;$/;"	f	class:ColorSpaceConverterPlugin
+getAmplitude	RieszTupel.java	/^    public abstract FloatArrayGeneric getAmplitude();$/;"	m	class:RieszTupel
+getAmplitude	RieszTupel2D.java	/^    public FloatArrayGeneric getAmplitude() {$/;"	m	class:RieszTupel2D
+getAmplitude	RieszTupel3D.java	/^    public FloatArrayGeneric getAmplitude() {$/;"	m	class:RieszTupel3D
+getArray	FloatArrayGeneric.java	/^    public double[] getArray() {$/;"	m	class:FloatArrayGeneric
+getAttenuation	RieszTupel.java	/^    public FloatArrayGeneric getAttenuation() {$/;"	m	class:RieszTupel
+getComplexValue	FloatArray2D.java	/^    public double[] getComplexValue(int i, int j) {$/;"	m	class:FloatArray2D
+getComplexValue	FloatArray3D.java	/^    public double[] getComplexValue(int i, int j, int k) {$/;"	m	class:FloatArray3D
+getDecompositionItem	MonogenicDecompositionTree.java	/^    public FloatArrayGeneric getDecompositionItem(int octave, int channel, PropertiesEnum proper/;"	m	class:MonogenicDecompositionTree
+getDecompositionMultiplier	MonogenicDecompositionTree.java	/^    private double getDecompositionMultiplier(int octave, int channel) {$/;"	m	class:MonogenicDecompositionTree	file:
+getFloatArrayOfImagePlus	FloatArrayGeneric.java	/^    public static FloatArrayGeneric getFloatArrayOfImagePlus(ImagePlus imp) {$/;"	m	class:FloatArrayGeneric
+getFrequency	RieszTupel.java	/^    public FloatArrayGeneric getFrequency() throws PropertyDoesNotExistException {$/;"	m	class:RieszTupel
+getImagArray2D	FloatArray2D.java	/^    public double[][] getImagArray2D() {$/;"	m	class:FloatArray2D
+getImagValue	FloatArray2D.java	/^    public double getImagValue(int i, int j) {$/;"	m	class:FloatArray2D
+getImagValue	FloatArrayGeneric.java	/^    public double getImagValue(int i, int j, int k) {$/;"	m	class:FloatArrayGeneric
+getImage	MonogenicDecompositionTree.java	/^    public FloatArrayGeneric getImage() {$/;"	m	class:MonogenicDecompositionTree
+getImage	RieszTupel.java	/^    public FloatArrayGeneric getImage() {$/;"	m	class:RieszTupel
+getImagePlusImag	FloatArray3D.java	/^    public ImagePlus getImagePlusImag(String name) {$/;"	m	class:FloatArray3D
+getImagePlusReal	FloatArray2D.java	/^    public ImagePlus getImagePlusReal(String name) {$/;"	m	class:FloatArray2D
+getImagePlusReal	FloatArray2D.java	/^    public ImagePlus getImagePlusReal(String name, int depth, int height, int width) {$/;"	m	class:FloatArray2D
+getImagePlusReal	FloatArray3D.java	/^    public ImagePlus getImagePlusReal(String name) {$/;"	m	class:FloatArray3D
+getImagePlusReal	FloatArray3D.java	/^    public ImagePlus getImagePlusReal(String name, int depth, int height, int width) {$/;"	m	class:FloatArray3D
+getImagePlusReal	FloatArrayGeneric.java	/^    public abstract ImagePlus getImagePlusReal(String var1);$/;"	m	class:FloatArrayGeneric
+getImagePlusReal	FloatArrayGeneric.java	/^    public abstract ImagePlus getImagePlusReal(String var1, int var2, int var3, int var4);$/;"	m	class:FloatArrayGeneric
+getMDepth	FloatArrayGeneric.java	/^    public int getMDepth() {$/;"	m	class:FloatArrayGeneric
+getMHeight	FloatArrayGeneric.java	/^    public int getMHeight() {$/;"	m	class:FloatArrayGeneric
+getMWidth	FloatArrayGeneric.java	/^    public int getMWidth() {$/;"	m	class:FloatArrayGeneric
+getMax	FloatArrayGeneric.java	/^    public double getMax() {$/;"	m	class:FloatArrayGeneric
+getMaximalNumberOfOctaves	ImageAdjuster.java	/^    public static int getMaximalNumberOfOctaves(ImagePlus imp) {$/;"	m	class:ImageAdjuster
+getMaximumPowerOf2	ImageAdjuster.java	/^    public static int getMaximumPowerOf2(int n) {$/;"	m	class:ImageAdjuster
+getMeanValue	FloatArrayGeneric.java	/^    public double getMeanValue() {$/;"	m	class:FloatArrayGeneric
+getMeanValue	MonogenicDecompositionTree.java	/^    public double getMeanValue() {$/;"	m	class:MonogenicDecompositionTree
+getMedianReal	FloatArrayGeneric.java	/^    public double getMedianReal() {$/;"	m	class:FloatArrayGeneric
+getMin	FloatArrayGeneric.java	/^    public double getMin() {$/;"	m	class:FloatArrayGeneric
+getName	FeatureEnum.java	/^    public String getName() {$/;"	m	class:FeatureEnum
+getName	PropertiesEnum.java	/^    public String getName() {$/;"	m	class:PropertiesEnum
+getName	ReconstructionEnum.java	/^    public String getName() {$/;"	m	class:ReconstructionEnum
+getNorm	FloatArrayGeneric.java	/^    public double getNorm() {$/;"	m	class:FloatArrayGeneric
+getOrientationAngle	RieszTupel.java	/^    public abstract FloatArrayGeneric getOrientationAngle(boolean var1) throws PropertyDoesNotEx/;"	m	class:RieszTupel
+getOrientationAngle	RieszTupel2D.java	/^    public FloatArrayGeneric getOrientationAngle(boolean phaseWrapping) {$/;"	m	class:RieszTupel2D
+getOrientationAngle	RieszTupel3D.java	/^    public FloatArrayGeneric getOrientationAngle(boolean phaseWrapping) throws PropertyDoesNotEx/;"	m	class:RieszTupel3D
+getPhase	RieszTupel.java	/^    public FloatArrayGeneric getPhase() {$/;"	m	class:RieszTupel
+getProperty	RieszTupel.java	/^    public FloatArrayGeneric getProperty(PropertiesEnum property) throws PropertyDoesNotExistExc/;"	m	class:RieszTupel
+getR1	RieszTupel.java	/^    public FloatArrayGeneric getR1() {$/;"	m	class:RieszTupel
+getR2	RieszTupel.java	/^    public FloatArrayGeneric getR2() {$/;"	m	class:RieszTupel
+getR3	RieszTupel.java	/^    public FloatArrayGeneric getR3() {$/;"	m	class:RieszTupel
+getRNorm	RieszTupel.java	/^    public abstract FloatArrayGeneric getRNorm();$/;"	m	class:RieszTupel
+getRNorm	RieszTupel2D.java	/^    public FloatArrayGeneric getRNorm() {$/;"	m	class:RieszTupel2D
+getRNorm	RieszTupel3D.java	/^    public FloatArrayGeneric getRNorm() {$/;"	m	class:RieszTupel3D
+getRealArray2D	FloatArray2D.java	/^    public double[][] getRealArray2D(int height, int width) {$/;"	m	class:FloatArray2D
+getRealArray2DFloat	FloatArray2D.java	/^    public float[][] getRealArray2DFloat(int height, int width) {$/;"	m	class:FloatArray2D
+getRealValue	FloatArray2D.java	/^    public double getRealValue(int i, int j) {$/;"	m	class:FloatArray2D
+getRealValue	FloatArrayGeneric.java	/^    public double getRealValue(int i, int j, int k) {$/;"	m	class:FloatArrayGeneric
+getReconstruction	MonogenicDecompositionTree.java	/^    public FloatArrayGeneric getReconstruction(ReconstructionEnum method, double threshold, bool/;"	m	class:MonogenicDecompositionTree
+getReconstructionMultiplier	MonogenicDecompositionTree.java	/^    private double getReconstructionMultiplier(int octave, int channel) {$/;"	m	class:MonogenicDecompositionTree	file:
+getRieszFilter	FourierFilters.java	/^    public static List<FloatArrayGeneric> getRieszFilter(FloatArrayGeneric fArr, boolean ifftshi/;"	m	class:FourierFilters
+getRieszFilter2D	FourierFilters.java	/^    private static List<FloatArrayGeneric> getRieszFilter2D(FloatArrayGeneric fArr, boolean ifft/;"	m	class:FourierFilters	file:
+getRieszFilter3D	FourierFilters.java	/^    private static List<FloatArrayGeneric> getRieszFilter3D(FloatArrayGeneric fArr, boolean ifft/;"	m	class:FourierFilters	file:
+getStandardDeviation	FloatArrayGeneric.java	/^    public double getStandardDeviation() {$/;"	m	class:FloatArrayGeneric
+getThreeQuartile	FloatArrayGeneric.java	/^    public double getThreeQuartile() {$/;"	m	class:FloatArrayGeneric
+getWaveletFilter	FourierFilters.java	/^    public static List<FloatArrayGeneric> getWaveletFilter(FloatArrayGeneric fArr, boolean iffts/;"	m	class:FourierFilters
+getWaveletFilter2D	FourierFilters.java	/^    private static List<FloatArrayGeneric> getWaveletFilter2D(FloatArrayGeneric fArr, boolean if/;"	m	class:FourierFilters	file:
+getWaveletFilter3D	FourierFilters.java	/^    private static List<FloatArrayGeneric> getWaveletFilter3D(FloatArrayGeneric fArr, boolean if/;"	m	class:FourierFilters	file:
+getWaveletFilterDerivative	FourierFilters.java	/^    public static List<List<FloatArrayGeneric>> getWaveletFilterDerivative(FloatArrayGeneric fAr/;"	m	class:FourierFilters
+hardThreshold	FloatArrayGeneric.java	/^    public FloatArrayGeneric hardThreshold(FloatArrayGeneric threshold) {$/;"	m	class:FloatArrayGeneric
+hardThreshold	FloatArrayGeneric.java	/^    public FloatArrayGeneric hardThreshold(double threshold) {$/;"	m	class:FloatArrayGeneric
+hasEqualDimension	FloatArrayGeneric.java	/^    protected boolean hasEqualDimension(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+ifft	FloatArray2D.java	/^    public void ifft() {$/;"	m	class:FloatArray2D
+ifft	FloatArray2D.java	/^    public void ifft(boolean scale) {$/;"	m	class:FloatArray2D
+ifft	FloatArray3D.java	/^    public void ifft() {$/;"	m	class:FloatArray3D
+ifft	FloatArray3D.java	/^    public void ifft(boolean scale) {$/;"	m	class:FloatArray3D
+ifft	FloatArrayGeneric.java	/^    public abstract void ifft();$/;"	m	class:FloatArrayGeneric
+ifftshift	FloatArray2D.java	/^    public void ifftshift() {$/;"	m	class:FloatArray2D
+ifftshift	FloatArray3D.java	/^    public void ifftshift() {$/;"	m	class:FloatArray3D
+ifftshift	FloatArrayGeneric.java	/^    public abstract void ifftshift();$/;"	m	class:FloatArrayGeneric
+invertSign	FloatArrayGeneric.java	/^    public FloatArrayGeneric invertSign() {$/;"	m	class:FloatArrayGeneric
+isPowerOf2	ImageAdjuster.java	/^    public static boolean isPowerOf2(int number) {$/;"	m	class:ImageAdjuster
+isotropicWavelet	FourierFilters.java	/^    public static double isotropicWavelet(double x, int order) {$/;"	m	class:FourierFilters
+lInftyNorm	FloatArrayGeneric.java	/^    public double lInftyNorm() {$/;"	m	class:FloatArrayGeneric
+localStd	FloatArray2D.java	/^    public FloatArrayGeneric localStd(int windowSize) {$/;"	m	class:FloatArray2D
+localStd	FloatArray3D.java	/^    public FloatArrayGeneric localStd(int windowSize) {$/;"	m	class:FloatArray3D
+localStd	FloatArrayGeneric.java	/^    public abstract FloatArrayGeneric localStd(int var1);$/;"	m	class:FloatArrayGeneric
+log	FloatArrayGeneric.java	/^    public FloatArrayGeneric log() {$/;"	m	class:FloatArrayGeneric
+mAmpOnlyRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAmpOnlyRadioButton = new JRadioButton(ReconstructionEnum.AMP_ONLY.ge/;"	f	class:MonogenicWaveletToolbox_
+mAmpPhaseRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAmpPhaseRadioButton = new JRadioButton(ReconstructionEnum.AMP_PHASE./;"	f	class:MonogenicWaveletToolbox_
+mAutomaticDenoisingRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticDenoisingRadioButton = new JRadioButton("Denoising (set to /;"	f	class:MonogenicWaveletToolbox_
+mAutomaticDescreeningRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticDescreeningRadioButton = new JRadioButton("Descreen");$/;"	f	class:MonogenicWaveletToolbox_
+mAutomaticIlluminationAdjustRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticIlluminationAdjustRadioButton = new JRadioButton("Equalize /;"	f	class:MonogenicWaveletToolbox_
+mAutomaticIlluminationAdjustStabilizedRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticIlluminationAdjustStabilizedRadioButton = new JRadioButton(/;"	f	class:MonogenicWaveletToolbox_
+mAutomaticStructureRemovalAdaptiveRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticStructureRemovalAdaptiveRadioButton = new JRadioButton("Rem/;"	f	class:MonogenicWaveletToolbox_
+mAutomaticStructureRemovalRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mAutomaticStructureRemovalRadioButton = new JRadioButton("Remove domi/;"	f	class:MonogenicWaveletToolbox_
+mBuildGui	MonogenicWaveletToolbox_.java	/^    protected boolean mBuildGui;$/;"	f	class:MonogenicWaveletToolbox_
+mChannelSelectionSlider	MonogenicWaveletToolbox_.java	/^    protected JSlider mChannelSelectionSlider;$/;"	f	class:MonogenicWaveletToolbox_
+mDecompostitionTree	MonogenicDecompositionTree.java	/^    protected Map<PointComparable, RieszTupel> mDecompostitionTree;$/;"	f	class:MonogenicDecompositionTree
+mDenoiseRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mDenoiseRadioButton = new JRadioButton(ReconstructionEnum.DENOISE.get/;"	f	class:MonogenicWaveletToolbox_
+mDepth	FloatArrayGeneric.java	/^    protected int mDepth;$/;"	f	class:FloatArrayGeneric
+mDerivativesComputed	MonogenicDecompositionTree.java	/^    protected boolean mDerivativesComputed;$/;"	f	class:MonogenicDecompositionTree
+mDescreenRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mDescreenRadioButton = new JRadioButton(ReconstructionEnum.DESCREENIN/;"	f	class:MonogenicWaveletToolbox_
+mDimension	MonogenicDecompositionTree.java	/^    protected int mDimension;$/;"	f	class:MonogenicDecompositionTree
+mFArr	FloatArrayGeneric.java	/^    protected double[] mFArr;$/;"	f	class:FloatArrayGeneric
+mHeight	FloatArrayGeneric.java	/^    protected int mHeight;$/;"	f	class:FloatArrayGeneric
+mImage	MonogenicDecompositionTree.java	/^    protected FloatArrayGeneric mImage;$/;"	f	class:MonogenicDecompositionTree
+mImage	RieszTupel.java	/^    protected FloatArrayGeneric mImage;$/;"	f	class:RieszTupel
+mImageDepth	MonogenicDecompositionTree.java	/^    protected int mImageDepth;$/;"	f	class:MonogenicDecompositionTree
+mImageDerivativesVector	RieszTupel.java	/^    protected Vector<FloatArrayGeneric> mImageDerivativesVector;$/;"	f	class:RieszTupel
+mImageHeight	MonogenicDecompositionTree.java	/^    protected int mImageHeight;$/;"	f	class:MonogenicDecompositionTree
+mImageMeanValue	MonogenicDecompositionTree.java	/^    protected double mImageMeanValue;$/;"	f	class:MonogenicDecompositionTree
+mImageWidth	MonogenicDecompositionTree.java	/^    protected int mImageWidth;$/;"	f	class:MonogenicDecompositionTree
+mImp	ContrastEnhance_.java	/^    ImagePlus mImp;$/;"	f	class:ContrastEnhance_
+mImp	Descreening_.java	/^    ImagePlus mImp;$/;"	f	class:Descreening_
+mImp	EqualizeBrightnessStabilized_.java	/^    ImagePlus mImp;$/;"	f	class:EqualizeBrightnessStabilized_
+mImp	EqualizeBrightness_.java	/^    ImagePlus mImp;$/;"	f	class:EqualizeBrightness_
+mLosslessRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mLosslessRadioButton = new JRadioButton(ReconstructionEnum.LOSSLESS.g/;"	f	class:MonogenicWaveletToolbox_
+mMainPanel	MonogenicWaveletToolbox_.java	/^    private JPanel mMainPanel;$/;"	f	class:MonogenicWaveletToolbox_	file:
+mMainPanelManual	MonogenicWaveletToolbox_.java	/^    private JPanel mMainPanelManual;$/;"	f	class:MonogenicWaveletToolbox_	file:
+mMonogenicDecompositionTree	MonogenicWaveletToolbox_.java	/^    protected MonogenicDecompositionTree mMonogenicDecompositionTree;$/;"	f	class:MonogenicWaveletToolbox_
+mNumberOfChannels	MonogenicDecompositionTree.java	/^    protected int mNumberOfChannels;$/;"	f	class:MonogenicDecompositionTree
+mNumberOfChannels	MonogenicWaveletToolbox_.java	/^    protected int mNumberOfChannels = 1;$/;"	f	class:MonogenicWaveletToolbox_
+mNumberOfChannelsField	MonogenicWaveletToolbox_.java	/^    protected JTextField mNumberOfChannelsField;$/;"	f	class:MonogenicWaveletToolbox_
+mNumberOfOctaves	MonogenicDecompositionTree.java	/^    protected int mNumberOfOctaves;$/;"	f	class:MonogenicDecompositionTree
+mNumberOfOctaves	MonogenicWaveletToolbox_.java	/^    protected int mNumberOfOctaves = 3;$/;"	f	class:MonogenicWaveletToolbox_
+mNumberOfOctavesField	MonogenicWaveletToolbox_.java	/^    protected JTextField mNumberOfOctavesField;$/;"	f	class:MonogenicWaveletToolbox_
+mOctaveSelectionSlider	MonogenicWaveletToolbox_.java	/^    protected JSlider mOctaveSelectionSlider;$/;"	f	class:MonogenicWaveletToolbox_
+mOrderOfWavelets	MonogenicWaveletToolbox_.java	/^    protected int mOrderOfWavelets = 5;$/;"	f	class:MonogenicWaveletToolbox_
+mOrderOfWaveletsField	MonogenicWaveletToolbox_.java	/^    protected JTextField mOrderOfWaveletsField;$/;"	f	class:MonogenicWaveletToolbox_
+mOriginalImage	MonogenicDecompositionTree.java	/^    protected ImagePlus mOriginalImage;$/;"	f	class:MonogenicDecompositionTree
+mOriginalRieszTupel	MonogenicDecompositionTree.java	/^    protected RieszTupel mOriginalRieszTupel;$/;"	f	class:MonogenicDecompositionTree
+mPhaseOnlyRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mPhaseOnlyRadioButton = new JRadioButton(ReconstructionEnum.PHASE_ONL/;"	f	class:MonogenicWaveletToolbox_
+mPhaseStabRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mPhaseStabRadioButton = new JRadioButton(ReconstructionEnum.PHASE_ONL/;"	f	class:MonogenicWaveletToolbox_
+mPropertySelectionPanel	MonogenicWaveletToolbox_.java	/^    protected JPanel mPropertySelectionPanel;$/;"	f	class:MonogenicWaveletToolbox_
+mReconstructionThresholdTextField	MonogenicWaveletToolbox_.java	/^    protected JTextField mReconstructionThresholdTextField = new JTextField("10.0");$/;"	f	class:MonogenicWaveletToolbox_
+mRieszDerivativesVectorVector	RieszTupel.java	/^    protected Vector<Vector<FloatArrayGeneric>> mRieszDerivativesVectorVector;$/;"	f	class:RieszTupel
+mRieszVector	RieszTupel.java	/^    protected Vector<FloatArrayGeneric> mRieszVector;$/;"	f	class:RieszTupel
+mShowAmplitudeRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowAmplitudeRadioButton = new JRadioButton(PropertiesEnum.AMPLITUDE/;"	f	class:MonogenicWaveletToolbox_
+mShowAttenuationRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowAttenuationRadioButton = new JRadioButton(PropertiesEnum.ATTENUA/;"	f	class:MonogenicWaveletToolbox_
+mShowCosPhaseRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowCosPhaseRadioButton = new JRadioButton(PropertiesEnum.COS_PHASE./;"	f	class:MonogenicWaveletToolbox_
+mShowFrequencyRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowFrequencyRadioButton = new JRadioButton(PropertiesEnum.FREQUENCY/;"	f	class:MonogenicWaveletToolbox_
+mShowItemsInFullSizeCheckBox	MonogenicWaveletToolbox_.java	/^    protected JCheckBox mShowItemsInFullSizeCheckBox = new JCheckBox("Show in full size");$/;"	f	class:MonogenicWaveletToolbox_
+mShowOrientationRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowOrientationRadioButton = new JRadioButton(PropertiesEnum.ORIENTA/;"	f	class:MonogenicWaveletToolbox_
+mShowOriginalRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowOriginalRadioButton = new JRadioButton(PropertiesEnum.ORIGINAL.g/;"	f	class:MonogenicWaveletToolbox_
+mShowPhaseRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowPhaseRadioButton = new JRadioButton(PropertiesEnum.PHASE.getName/;"	f	class:MonogenicWaveletToolbox_
+mShowR1RadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowR1RadioButton = new JRadioButton(PropertiesEnum.R1.getName());$/;"	f	class:MonogenicWaveletToolbox_
+mShowR2RadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowR2RadioButton = new JRadioButton(PropertiesEnum.R2.getName());$/;"	f	class:MonogenicWaveletToolbox_
+mShowR3RadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mShowR3RadioButton = new JRadioButton(PropertiesEnum.R3.getName());$/;"	f	class:MonogenicWaveletToolbox_
+mSymmetricExtension	MonogenicDecompositionTree2D.java	/^    private boolean mSymmetricExtension;$/;"	f	class:MonogenicDecompositionTree2D	file:
+mSymmetricExtensionCheckBox	MonogenicWaveletToolbox_.java	/^    protected JCheckBox mSymmetricExtensionCheckBox = new JCheckBox("Symmetric Extension \\n(onl/;"	f	class:MonogenicWaveletToolbox_
+mWaveRemovalAdaptiveRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mWaveRemovalAdaptiveRadioButton = new JRadioButton(ReconstructionEnum/;"	f	class:MonogenicWaveletToolbox_
+mWaveRemovalRadioButton	MonogenicWaveletToolbox_.java	/^    protected JRadioButton mWaveRemovalRadioButton = new JRadioButton(ReconstructionEnum.WAVE_RE/;"	f	class:MonogenicWaveletToolbox_
+mWaveletOrder	MonogenicDecompositionTree.java	/^    protected int mWaveletOrder = 3;$/;"	f	class:MonogenicDecompositionTree
+mWidth	FloatArrayGeneric.java	/^    protected int mWidth;$/;"	f	class:FloatArrayGeneric
+mWidthStep	FloatArrayGeneric.java	/^    protected int mWidthStep;$/;"	f	class:FloatArrayGeneric
+mWorkingImage	MonogenicWaveletToolbox_.java	/^    protected ImagePlus mWorkingImage;$/;"	f	class:MonogenicWaveletToolbox_
+monochromeToHue	ImageAdjuster.java	/^    public static void monochromeToHue(ImagePlus imp) {$/;"	m	class:ImageAdjuster
+monogenicwavelettoolbox	About_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	ColorSpaceConverterPlugin.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	ContrastEnhance_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	Descreening_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	EqualizeBrightnessStabilized_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	EqualizeBrightness_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	FeatureEnum.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	FloatArray2D.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	FloatArray3D.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	FloatArrayGeneric.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	FourierFilters.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	ImageAdjuster.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	MonogenicDecompositionTree.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	MonogenicDecompositionTree2D.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	MonogenicDecompositionTree3D.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	MonogenicWaveletToolbox_.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	PointComparable.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	PropertiesEnum.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	PropertyDoesNotExistException.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	ReconstructionEnum.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	RieszTupel.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	RieszTupel2D.java	/^package monogenicwavelettoolbox;$/;"	p
+monogenicwavelettoolbox	RieszTupel3D.java	/^package monogenicwavelettoolbox;$/;"	p
+multiply	FloatArrayGeneric.java	/^    public FloatArrayGeneric multiply(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+multiply	FloatArrayGeneric.java	/^    public FloatArrayGeneric multiply(double f2) {$/;"	m	class:FloatArrayGeneric
+name	FeatureEnum.java	/^    private final String name;$/;"	f	class:FeatureEnum	file:
+name	PropertiesEnum.java	/^    private final String name;$/;"	f	class:PropertiesEnum	file:
+name	ReconstructionEnum.java	/^    private final String name;$/;"	f	class:ReconstructionEnum	file:
+nextPowerOf2	ImageAdjuster.java	/^    public static int nextPowerOf2(int n) {$/;"	m	class:ImageAdjuster
+normalizeImage	ImageAdjuster.java	/^    public static void normalizeImage(ImagePlus image) throws IllegalArgumentException {$/;"	m	class:ImageAdjuster
+performDescreen	MonogenicWaveletToolbox_.java	/^    public void performDescreen(ImagePlus imp) {$/;"	m	class:MonogenicWaveletToolbox_
+performEqualizationOfBrightness	MonogenicWaveletToolbox_.java	/^    public void performEqualizationOfBrightness(ImagePlus imp, boolean stabilized, boolean contr/;"	m	class:MonogenicWaveletToolbox_
+phaseWrapping	FloatArrayGeneric.java	/^    public FloatArrayGeneric phaseWrapping() {$/;"	m	class:FloatArrayGeneric
+polynom	FourierFilters.java	/^    public static double polynom(double x, int order) {$/;"	m	class:FourierFilters
+propertySelectionButtonGroup	MonogenicWaveletToolbox_.java	/^    protected ButtonGroup propertySelectionButtonGroup = new ButtonGroup();$/;"	f	class:MonogenicWaveletToolbox_
+revertSymmetricExtension	FloatArray2D.java	/^    public void revertSymmetricExtension() {$/;"	m	class:FloatArray2D
+revertSymmetricExtension	FloatArray3D.java	/^    public void revertSymmetricExtension() {$/;"	m	class:FloatArray3D
+revertSymmetricExtension	FloatArrayGeneric.java	/^    public abstract void revertSymmetricExtension();$/;"	m	class:FloatArrayGeneric
+run	About_.java	/^    public void run(String arg) {$/;"	m	class:About_
+run	ColorSpaceConverterPlugin.java	/^    public void run(ImageProcessor ip) {$/;"	m	class:ColorSpaceConverterPlugin
+run	ContrastEnhance_.java	/^    public void run(ImageProcessor arg0) {$/;"	m	class:ContrastEnhance_
+run	Descreening_.java	/^    public void run(ImageProcessor arg0) {$/;"	m	class:Descreening_
+run	EqualizeBrightnessStabilized_.java	/^    public void run(ImageProcessor arg0) {$/;"	m	class:EqualizeBrightnessStabilized_
+run	EqualizeBrightness_.java	/^    public void run(ImageProcessor arg0) {$/;"	m	class:EqualizeBrightness_
+scaleArray	ImageAdjuster.java	/^    public static void scaleArray(float[] arr, float min, float max) {$/;"	m	class:ImageAdjuster
+scaleTo	FloatArrayGeneric.java	/^    public FloatArrayGeneric scaleTo(double newMin, double newMax) {$/;"	m	class:FloatArrayGeneric
+separated	ColorSpaceConverterPlugin.java	/^    boolean separated;$/;"	f	class:ColorSpaceConverterPlugin
+serialVersionUID	MonogenicWaveletToolbox_.java	/^    private static final long serialVersionUID = 6627226984150029355L;$/;"	f	class:MonogenicWaveletToolbox_	file:
+serialVersionUID	PointComparable.java	/^    private static final long serialVersionUID = -5815049019312579150L;$/;"	f	class:PointComparable	file:
+serialVersionUID	PropertyDoesNotExistException.java	/^    private static final long serialVersionUID = 3159735516379111262L;$/;"	f	class:PropertyDoesNotExistException	file:
+setComplexValue	FloatArray2D.java	/^    public void setComplexValue(int i, int j, double[] complex) {$/;"	m	class:FloatArray2D
+setComplexValue	FloatArray3D.java	/^    public void setComplexValue(int i, int j, int k, double[] complex) {$/;"	m	class:FloatArray3D
+setImagValue	FloatArray2D.java	/^    public void setImagValue(int i, int j, double val) {$/;"	m	class:FloatArray2D
+setImagValue	FloatArray3D.java	/^    public void setImagValue(int i, int j, int k, double val) {$/;"	m	class:FloatArray3D
+setImageDerivatives	RieszTupel.java	/^    public void setImageDerivatives(Vector<FloatArrayGeneric> imageDerivatives) {$/;"	m	class:RieszTupel
+setMax	FloatArrayGeneric.java	/^    public FloatArrayGeneric setMax(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+setR1	RieszTupel.java	/^    protected void setR1(FloatArrayGeneric fArr) {$/;"	m	class:RieszTupel
+setR2	RieszTupel.java	/^    protected void setR2(FloatArrayGeneric fArr) {$/;"	m	class:RieszTupel
+setR3	RieszTupel.java	/^    protected void setR3(FloatArrayGeneric fArr) {$/;"	m	class:RieszTupel
+setRealValue	FloatArray2D.java	/^    public void setRealValue(int i, int j, double val) {$/;"	m	class:FloatArray2D
+setRealValue	FloatArray3D.java	/^    public void setRealValue(int i, int j, int k, double val) {$/;"	m	class:FloatArray3D
+setRieszDerivatives	RieszTupel.java	/^    public void setRieszDerivatives(Vector<Vector<FloatArrayGeneric>> rieszDerivatives) {$/;"	m	class:RieszTupel
+setup	ColorSpaceConverterPlugin.java	/^    public int setup(String arg, ImagePlus imp) {$/;"	m	class:ColorSpaceConverterPlugin
+setup	ContrastEnhance_.java	/^    public int setup(String arg, ImagePlus imp) {$/;"	m	class:ContrastEnhance_
+setup	Descreening_.java	/^    public int setup(String arg, ImagePlus imp) {$/;"	m	class:Descreening_
+setup	EqualizeBrightnessStabilized_.java	/^    public int setup(String arg, ImagePlus imp) {$/;"	m	class:EqualizeBrightnessStabilized_
+setup	EqualizeBrightness_.java	/^    public int setup(String arg, ImagePlus imp) {$/;"	m	class:EqualizeBrightness_
+showAbout	About_.java	/^    public static void showAbout() {$/;"	m	class:About_
+showAbout	ColorSpaceConverterPlugin.java	/^    void showAbout() {$/;"	m	class:ColorSpaceConverterPlugin
+showAbout	ContrastEnhance_.java	/^    void showAbout() {$/;"	m	class:ContrastEnhance_
+showAbout	Descreening_.java	/^    void showAbout() {$/;"	m	class:Descreening_
+showAbout	EqualizeBrightnessStabilized_.java	/^    void showAbout() {$/;"	m	class:EqualizeBrightnessStabilized_
+showAbout	EqualizeBrightness_.java	/^    void showAbout() {$/;"	m	class:EqualizeBrightness_
+showAll	RieszTupel.java	/^    public void showAll() {$/;"	m	class:RieszTupel
+showDecompositionItem	MonogenicDecompositionTree.java	/^    public void showDecompositionItem(int octave, int channel, PropertiesEnum property, boolean /;"	m	class:MonogenicDecompositionTree
+showDialog	ColorSpaceConverterPlugin.java	/^    boolean showDialog() {$/;"	m	class:ColorSpaceConverterPlugin
+showImag	FloatArray3D.java	/^    public void showImag() {$/;"	m	class:FloatArray3D
+showImage	RieszTupel.java	/^    public void showImage() {$/;"	m	class:RieszTupel
+showR1	RieszTupel.java	/^    public void showR1() {$/;"	m	class:RieszTupel
+showR2	RieszTupel.java	/^    public void showR2() {$/;"	m	class:RieszTupel
+showR3	RieszTupel.java	/^    public void showR3() {$/;"	m	class:RieszTupel
+showReal	FloatArray3D.java	/^    public void showReal() {$/;"	m	class:FloatArray3D
+showReconstruction	MonogenicDecompositionTree.java	/^    public void showReconstruction(ReconstructionEnum r) {$/;"	m	class:MonogenicDecompositionTree
+showReconstruction	MonogenicDecompositionTree.java	/^    public void showReconstruction(ReconstructionEnum r, double threshold) {$/;"	m	class:MonogenicDecompositionTree
+softThreshold	FloatArrayGeneric.java	/^    public FloatArrayGeneric softThreshold(FloatArrayGeneric threshold) {$/;"	m	class:FloatArrayGeneric
+softThreshold	FloatArrayGeneric.java	/^    public FloatArrayGeneric softThreshold(double threshold) {$/;"	m	class:FloatArrayGeneric
+sq	FloatArrayGeneric.java	/^    public FloatArrayGeneric sq() {$/;"	m	class:FloatArrayGeneric
+sqrt	FloatArrayGeneric.java	/^    public FloatArrayGeneric sqrt() {$/;"	m	class:FloatArrayGeneric
+startDecomposition	MonogenicWaveletToolbox_.java	/^    protected boolean startDecomposition(ImagePlus imp) {$/;"	m	class:MonogenicWaveletToolbox_
+startDecomposition	MonogenicWaveletToolbox_.java	/^    protected void startDecomposition() {$/;"	m	class:MonogenicWaveletToolbox_
+sub	FloatArrayGeneric.java	/^    public FloatArrayGeneric sub(FloatArrayGeneric f2) {$/;"	m	class:FloatArrayGeneric
+subtractMeanValue	MonogenicDecompositionTree.java	/^    protected void subtractMeanValue() {$/;"	m	class:MonogenicDecompositionTree
+symmExtend	FloatArray2D.java	/^    private void symmExtend(int newHeight, int newWidth) {$/;"	m	class:FloatArray2D	file:
+symmetricExtended	FloatArrayGeneric.java	/^    protected boolean symmetricExtended;$/;"	f	class:FloatArrayGeneric
+symmetricExtension	FloatArray2D.java	/^    public void symmetricExtension() {$/;"	m	class:FloatArray2D
+symmetricExtension	FloatArray3D.java	/^    public void symmetricExtension() {$/;"	m	class:FloatArray3D
+symmetricExtension	FloatArrayGeneric.java	/^    public abstract void symmetricExtension();$/;"	m	class:FloatArrayGeneric
+textParser	About_.java	/^    public static String textParser(String filename) {$/;"	m	class:About_
+this$0	ColorSpaceConverterPlugin.java	/^        final \/* synthetic *\/ ColorSpaceConverterPlugin this$0;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+title	ColorSpaceConverterPlugin.java	/^    String title;$/;"	f	class:ColorSpaceConverterPlugin
+to	ColorSpaceConverterPlugin.java	/^    String to;$/;"	f	class:ColorSpaceConverterPlugin
+toString	FeatureEnum.java	/^    public String toString() {$/;"	m	class:FeatureEnum
+toString	FloatArrayGeneric.java	/^    public String toString() {$/;"	m	class:FloatArrayGeneric
+toString	PropertiesEnum.java	/^    public String toString() {$/;"	m	class:PropertiesEnum
+toString	ReconstructionEnum.java	/^    public String toString() {$/;"	m	class:ReconstructionEnum
+updateGUI	MonogenicWaveletToolbox_.java	/^    private void updateGUI(boolean is3d) {$/;"	m	class:MonogenicWaveletToolbox_	file:
+upsampling	FloatArray2D.java	/^    public void upsampling(int n) {$/;"	m	class:FloatArray2D
+upsampling	FloatArray3D.java	/^    public void upsampling(int n) {$/;"	m	class:FloatArray3D
+upsampling	FloatArrayGeneric.java	/^    public abstract void upsampling(int var1);$/;"	m	class:FloatArrayGeneric
+upsampling	FloatArrayGeneric.java	/^    public void upsampling() {$/;"	m	class:FloatArrayGeneric
+version	ColorSpaceConverterPlugin.java	/^    static final String version = "$Id$";$/;"	f	class:ColorSpaceConverterPlugin
+whitePoint	ColorSpaceConverterPlugin.java	/^        public double[] whitePoint;$/;"	f	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+whitePoint	ColorSpaceConverterPlugin.java	/^    String whitePoint;$/;"	f	class:ColorSpaceConverterPlugin
+xyYtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] xyYtoXYZ(double x, double y, double Y) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+xyYtoXYZ	ColorSpaceConverterPlugin.java	/^        public double[] xyYtoXYZ(double[] xyY) {$/;"	m	class:ColorSpaceConverterPlugin.ColorSpaceConverter
+zerosOfSameSize	FloatArrayGeneric.java	/^    public FloatArrayGeneric zerosOfSameSize() {$/;"	m	class:FloatArrayGeneric

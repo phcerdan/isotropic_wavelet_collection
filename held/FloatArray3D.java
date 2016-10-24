@@ -266,8 +266,10 @@ extends FloatArrayGeneric {
             while (j < this.mHeight) {
                 int k = 0;
                 while (k < this.mWidth) {
-                    fArr2[m * i * newHeight * newWidthStep + m * j * newWidthStep + m * 2 * k] = this.mFArr[i * this.mHeight * this.mWidthStep + j * this.mWidthStep + 2 * k];
-                    fArr2[m * i * newHeight * newWidthStep + m * j * newWidthStep + m * 2 * k + 1] = this.mFArr[i * this.mHeight * this.mWidthStep + j * this.mWidthStep + 2 * k + 1];
+                    fArr2[m * i * newHeight * newWidthStep + m * j * newWidthStep + m * 2 * k] =
+                        this.mFArr[i * this.mHeight * this.mWidthStep + j * this.mWidthStep + 2 * k];
+                    fArr2[m * i * newHeight * newWidthStep + m * j * newWidthStep + m * 2 * k + 1] =
+                        this.mFArr[i * this.mHeight * this.mWidthStep + j * this.mWidthStep + 2 * k + 1];
                     ++k;
                 }
                 ++j;

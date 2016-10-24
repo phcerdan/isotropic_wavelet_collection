@@ -1,6 +1,6 @@
 /*
  * Decompiled with CFR 0_114.
- * 
+ *
  * Could not load the following classes:
  *  ij.ImagePlus
  *  ij.WindowManager

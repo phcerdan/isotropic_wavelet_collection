@@ -1,6 +1,6 @@
 /*
  * Decompiled with CFR 0_114.
- * 
+ *
  * Could not load the following classes:
  *  ij.IJ
  *  ij.ImagePlus
@@ -65,6 +65,28 @@ public abstract class MonogenicDecompositionTree {
         return this.mImageMeanValue;
     }
 
+    // PHC noes
+    // Octaves are levels ; n, l
+    // Channels are high_sub_bands; m, k
+    // waveletFilter List depends on initial Size, and subbands.
+    // For each level.
+    //  Calculate fft of approx (approx = initial image at l = 0)
+    //  For each band, new output.
+    //    multiply fft_approx by decomposition multiplier.  2^[ (Dim/2) * (level + band/TotalBands)  ] 
+    //    2^[ (Dim/2) * (level)] * 2^[ (Dim/2) * band/TotalBands)]
+    //
+    //    and multiply by  wavelet filter(band)
+    //    (Also do the riesz stuff, but can be docoupled)
+    //    inverse_fft, and store (real space image)
+    //
+    //  multiply fft_approx by low_pass_wavelet filter. Note: wavelet_filter(band == max_band) is equivalent to low filter.
+    //  inverse_fft
+    //  downsample(new_approx) // you do in the freq domain. no interpolation
+    //  downsample(wavelet_filter) // You dont do this. Generate new filter at each level instead.
+    //  downsample(riesz)// you dont do this.
+    //
+    //
+    //
     protected void computeDecompositionTree() {
         IJ.showStatus((String)"Decomposing...");
         long startTime = System.currentTimeMillis();
@@ -243,13 +265,13 @@ public abstract class MonogenicDecompositionTree {
 
     // LOSSLESS("Lossless"), //1
     // WAVE_REMOVAL("Wave Removal"), //2
-    // WAVE_REMOVAL_ADAPTIVE("Wave Removal Adaptive"),
-    // DESCREENING("Descreening"),
+    // WAVE_REMOVAL_ADAPTIVE("Wave Removal Adaptive"),/3
+    // DESCREENING("Descreening"), //4
     // AMP_PHASE("Amp and Phase"), // 5
-    // PHASE_ONLY("Cosine of Phase only"),
+    // PHASE_ONLY("Cosine of Phase only"), //6
     // AMP_ONLY("Amplitude only"), //7
-    // PHASE_ONLY_STAB("Cosine of Phase only (noise suppressed)"),
-    // DENOISE("Denoising"),
+    // PHASE_ONLY_STAB("Cosine of Phase only (noise suppressed)"), //8
+    // DENOISE("Denoising"), // 9
     // CONTRAST_ENHANCE("Contrast Enhance"); // 10
     public FloatArrayGeneric getReconstruction(ReconstructionEnum method, double threshold, boolean useLowPass) {
         IJ.showStatus((String)"Reconstructing...");
@@ -535,10 +557,12 @@ public abstract class MonogenicDecompositionTree {
 
     private double getReconstructionMultiplier(int octave, int channel) {
         return Math.pow(2.0, ((double)octave + (double)channel / (double)this.mNumberOfChannels) * (double)this.mDimension / 2.0);
+        // return Math.pow(2.0, (octave + channel / this.mNumberOfChannels) * Dimension / 2.0);
     }
 
     private double getDecompositionMultiplier(int octave, int channel) {
         return Math.pow(2.0, (- (double)octave + (double)channel / (double)this.mNumberOfChannels) * (double)this.mDimension / 2.0);
+        // return Math.pow(2.0, (- octave + channel / this.mNumberOfChannels) * Dimension / 2.0);
     }
 
     static /* synthetic */ int[] $SWITCH_TABLE$monogenicwavelettoolbox$ReconstructionEnum() {
