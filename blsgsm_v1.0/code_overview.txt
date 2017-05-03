@@ -1,0 +1,43 @@
+BLS-GSM image denoising.
+
+ABOUT
+
+Author    : Boshra Rajaei <bo.rajaei@gmail.com>
+Copyright : (C) 2013 IPOL Image Processing On Line http://www.ipol.im/
+Licence   : GPL v3+, see GPLv3.txt
+
+
+This code is an implementation of BLS-GSM denoiding method proposed by Portilla
+et al in 2003. Following is an outline to the main methods:
+
+
+main(), main.cpp:28      (Program begins here)
+
+    - Reading the input image using io_png_read_f32()
+    - Adding noise using addnoise()
+    - For color images and to enhance overall performance, color decorrelation is done using ColorTransform()
+    - Apply BLS-GSM denoising algorithm to each channel, using denoi_BLS_GSM()
+    - Inverse color decorrelation using ColorTransform()
+    - Writing output denoised image using io_png_write_f32() 
+
+
+
+denoi_BLS_GSM(), gsm.cpp:48
+
+    - The implementation of BLS-GSM method begins by this function. 
+    - Boundary extension using bound_extension()
+    - Making a delta function
+    - Decomposing the image into steerable pyramid, denoising each coefficient and then reconstructing using  decomp_reconst_full()
+
+
+decomp_reconst_full(), gsm.cpp:159
+
+    - This function decomposes the image into steerable pyramid, denoises each coefficient and then reconstructs finally
+    - Building steerable pyramid using buildFullSFpyr2()
+    - Denoise each subband using denoi_BLS_GSM_band()
+
+denoi_BLS_GSM_band(), gsm.cpp:262
+    - This function denoises one subband according to the BLS-GSM method
+
+
+

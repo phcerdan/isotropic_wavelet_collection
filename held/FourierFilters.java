@@ -166,8 +166,8 @@ public class FourierFilters {
                         waveletFilter.setRealValue(i, j, val);
                         waveletFilter.setImagValue(i, j, 0.0);
                     } else {
-                        waveletFilter.setImagValue(i, j, val);
                         waveletFilter.setRealValue(i, j, 0.0);
+                        waveletFilter.setImagValue(i, j, val);
                     }
                     ++j;
                 }

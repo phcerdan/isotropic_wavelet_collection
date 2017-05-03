@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/14.11.16/8ca6cdd89dc903477a313afdf84a0e91/ijtools.jar
+Decompiled with CFR 0_118

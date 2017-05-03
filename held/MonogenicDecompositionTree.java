@@ -120,6 +120,9 @@ public abstract class MonogenicDecompositionTree {
             approx.multiply(waveletFilterList.get(this.mNumberOfChannels));
             approx.ifft();
             approx.downsampling();
+            // PHC: This is a downsampling in the spatial domain way! Eventhough the waveletFilters are in the frequency domain.
+            // This is just getting 1 sample every 2.
+            // Do not get confused between downsampling in the freq domain, which removes high freq components, versus this.
             for (FloatArrayGeneric wf : waveletFilterList) {
                 wf.downsampling();
             }
@@ -514,6 +517,7 @@ public abstract class MonogenicDecompositionTree {
                 }
                 detail.fft();
                 detail.multiply(waveletFilterList.get(m));
+                // PHC: What? Phase analysis dont get multiplied by reconstruct multipliers.
                 if (method != ReconstructionEnum.PHASE_ONLY && method != ReconstructionEnum.PHASE_ONLY_STAB) {
                     detail.multiply(this.getReconstructionMultiplier(n, m));
                 }

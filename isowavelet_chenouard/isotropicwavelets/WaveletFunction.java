@@ -121,10 +121,10 @@ public class WaveletFunction {
 			case Shannon: {
 							  for (int i = 0; i < distMap.length; i++) {
 								  double dist = distMap[i];
-								  if (dist < 0.5f) // ||w|| < pi/2
+								  if (dist < 0.5f) // ||w|| < pi
 								  {
 									  lp[i] = 1;
-								  } else // ||w|| >= pi/2
+								  } else // ||w|| >= pi
 								  {
 									  hp[i] = 1;
 								  }
@@ -136,19 +136,19 @@ public class WaveletFunction {
 			case Simoncelli: {
 								 for (int i = 0; i < distMap.length; i++) {
 									 double dist = distMap[i];
-									 if (dist < 0.5f) // ||w|| < pi/2
+									 if (dist < 0.5f) // ||w|| < pi
 									 {
-										 if (dist <= 0.25f) // ||w|| <= pi/4
+										 if (dist <= 0.25f) // ||w|| <= pi/2
 										 {
 											 lp[i] = 1;
-										 } else // ||w|| > pi/4
+										 } else // ||w|| > pi/2
 										 {
 											 hp[i] = (double) Math.cos(Math.PI * 0.5
 													 * Math.log(2 * dist) / Math.log(2));
 											 lp[i] = (double) Math.cos(Math.PI * 0.5
 													 * Math.log(4 * dist) / Math.log(2));
 										 }
-									 } else // ||w|| >= pi/2
+									 } else // ||w|| >= pi
 									 {
 										 hp[i] = 1;
 									 }
@@ -263,7 +263,7 @@ public class WaveletFunction {
 									 double dist = distMap[i];
 									 if (dist > 1f)
 										 hp[i] = 1;
-									 else if (dist > 0.5f) // ||w|| > pi/2
+									 else if (dist > 0.5f) // ||w|| > pi
 									 {
 										 hp[i] = (double) Math.cos(
 												 Math.PI * 0.5 * Math.log(dist) / Math.log(2));
